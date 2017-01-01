@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  roomID: 1
+  width: 1
+  length: 1
+  price: 1
+  capacity: 1
+  available: false
+
+two:
+  roomID: 1
+  width: 1
+  length: 1
+  price: 1
+  capacity: 1
+  available: false
