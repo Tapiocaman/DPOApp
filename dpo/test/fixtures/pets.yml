@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  lastRoom: 1
+  owners: one
+
+two:
+  name: MyString
+  lastRoom: 1
+  owners: two
